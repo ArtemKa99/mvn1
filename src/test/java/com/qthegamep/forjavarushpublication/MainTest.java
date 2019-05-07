@@ -20,7 +20,7 @@ public class MainTest {
 
     @Test
     public void shouldBigger() {
-        assertTrue(main.isBigger(10, 6));
+        assertTrue(main.isBigger(6, 10));
     }
 
     @Test
